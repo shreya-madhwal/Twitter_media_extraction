@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Media Extractor</title>
+	<link rel="stylesheet"  type="text/css"  href="{{url_for('static',filename='styles/style.css')}}">
+    <link rel="stylesheet"  type="text/css"  href="{{url_for('static',filename='styles/font.css')}}">
+</head>	
+<body>
+   <header class ="header" id="intro">
+	<h1>HERE'S THE MEDIA YOU WERE LOOKING FOR!</h1>
+	{% for i in sent %}
+					<img src="{{i}}" alt="Image from Twitter">
+	{% endfor %}
+	<p>DEVELOPER-Shreya Madhwal</p>
+   </header>
+</body>
+</html>
