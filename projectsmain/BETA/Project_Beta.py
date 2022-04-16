@@ -2,10 +2,10 @@
 from flask import Flask,redirect,url_for,render_template,request
 import tweepy
 
-consumer_key = "8fqcZBhHRJ2dP4cgSjqBWmR9A" 
-consumer_secret = "pesGHBY9Vj0tBeEQag5rokeeCBJd0vjbqNFKtzb6e2ZFq8qxFN"
-access_key = "1466114130818052106-eaopfN0JHitHaAlYjJqD9GiAd0A2LA"
-access_secret = "m6v6bCSLUT3gwll7DrBSP9OfTR60942vdDu0WI7J1TSPc"
+consumer_key = " "         #Enter consumer key here provided by twitter developers account(elevated)
+consumer_secret = " "      #Enter consumer_secret key here provided by twitter developers account(elevated)
+access_key = " "           #Enter access_key key here provided by twitter developers account(elevated)
+access_secret = " "        #Enter access_secret key here provided by twitter developers account(elevated)
 
 
 app=Flask(__name__)
