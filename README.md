@@ -19,10 +19,10 @@ A home page which will going to display the media extracted from twitter for tha
 
 ![twitto2](https://user-images.githubusercontent.com/84977514/163664312-a832efa8-c53e-4013-b5a2-b35395077a1d.png)
 
-A about_us page which is a static page containing detail about our application.
+A contact_us page which contains some social media handles for contacting the developer. This is created so that if anyone using this web application feel like sharing a new idea or updation they can contact developer or can simply create an issue in github repository of this application.
 
 ![twitto3](https://user-images.githubusercontent.com/84977514/163664323-4460f904-eae6-4653-b51a-2cb27a1b5631.png)
 
-A contact_us page which contains some social media handles for contacting the developer. This is created so that if anyone using this web application feel like sharing a new idea or updation they can contact developer or can simply create an issue in github repository of this application.
+A about_us page which is a static page containing detail about our application.
 
 ![twitto4](https://user-images.githubusercontent.com/84977514/163664336-666e21ca-11bf-417d-ad15-deeee8976d2e.png)
